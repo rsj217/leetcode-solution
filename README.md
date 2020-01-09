@@ -2,9 +2,9 @@
 Subtract of Grokking the Coding Interview: Patterns for Coding Questions 
 
 
-[1. 滑动窗口](1-sliding-window.ipynb)
+[1. 滑动窗口](./1-sliding-window.ipynb)
 
-[2. 对撞指针]()
+[2. 对撞指针](./2-two-pointers.ipynb)
 
 [3. 快慢指针](./3-fast-slow-pointer.ipynb)
 
