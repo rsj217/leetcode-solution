@@ -1,6 +1,6 @@
-# leetcode-pattern
-Subtract of Grokking the Coding Interview: Patterns for Coding Questions 
+# Leetcode Pattern
 
+[0. leetcode pattern](./README.md)
 
 [1. 滑动窗口(Sliding Window)](./1-sliding-window.ipynb)
 
