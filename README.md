@@ -1,6 +1,6 @@
 # Leetcode Pattern
 
-[0. leetcode pattern](./README.md)
+[0. Leetcode Pattern](./README.md)
 
 [1. 滑动窗口(Sliding Window)](./1-sliding-window.ipynb)
 
