@@ -10,7 +10,7 @@
 
 [4. 区间合并(Interval Merge)](./4-interval-merge.ipynb)
 
-[5. 循环排序(Cylic Sort)](./5-cylic-sort.ipynb)
+[5. 循环排序(Cylic Sort)](./5-cyclic-sort.ipynb)
 
 
 
