@@ -1,16 +1,13 @@
 # Leetcode Pattern
 
-[0. Leetcode Pattern](./README.md)
+[groking-leetcode](./groking-leetcode)
 
-[1. 滑动窗口(Sliding Window)](./groking-leetcode/1-sliding-window.ipynb)
+[leetcode-in-python3](./leetcode-in-python3)
 
-[2. 对撞指针(Collide Pointer)](./groking-leetcode/2-two-pointers.ipynb)
+[leetcode-in-rust](./leetcode-in-rust)
 
-[3. 快慢指针(Fast Slow Pointer)](./groking-leetcode/3-fast-slow-pointer.ipynb)
+[leetcode-in-golang](./leetcode-in-golang)
 
-[4. 区间合并(Interval Merge)](./groking-leetcode/4-interval-merge.ipynb)
-
-[5. 循环排序(Cylic Sort)](./groking-leetcode/5-cyclic-sort.ipynb)
 
 
 
