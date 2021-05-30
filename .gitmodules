@@ -1,3 +1,9 @@
 [submodule "leetcode-in-python3"]
 	path = leetcode-in-python3
 	url = https://github.com/rsj217/leetcode-in-python3.git
+[submodule "leetcode-in-rust"]
+	path = leetcode-in-rust
+	url = https://github.com/rsj217/leetcode-in-rust.git
+[submodule "leetcode-in-golang"]
+	path = leetcode-in-golang
+	url = https://github.com/rsj217/leetcode-in-golang.git
